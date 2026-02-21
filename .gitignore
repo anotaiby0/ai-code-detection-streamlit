@@ -1,3 +1,7 @@
+dataset/
+scored23_release/
+Human_vs_AI_Code_Quality/
+*.pkl
+*.xlsx
 __pycache__/
-*.ipynb
-.env
+.ipynb_checkpoints/
